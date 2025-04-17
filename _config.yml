@@ -114,15 +114,14 @@ content:
           As a Technical Lead at Squibler, I spearheaded the development and scaling of the company’s AI-driven applications, leading a high-performing engineering team while driving technical excellence and operational efficiency.
         description: | # this will include new lines to allow paragraphs
           My focus on clean architecture, automation, and team empowerment allowed Squibler to scale efficiently while maintaining high engineering standards. Whether leading complex migrations or mentoring engineers, I thrived on solving challenges that drove both technical and business growth.
-            ◉ Supervised and mentored a team of 10+ software engineers, fostering collaboration and innovation. Played a pivotal role in scaling the engineering team from an MVP phase to a 30-member team, ensuring seamless onboarding through comprehensive documentation and training.
-            ◉ Led a major Angular version upgrade (v10 → v15), improving performance and reducing technical debt by 20%.
-            ◉ Architected and built the backend infrastructure for a new web application, enhancing scalability and maintainability.
-            ◉ Optimized Google Cloud infrastructure, reducing monthly operational costs by 10%.
-            ◉ Implemented GitHub Actions for CI/CD, cutting deployment time from hours to under 60 minutes.
-            ◉ Enhanced security and performance by integrating Cloudflare (reverse proxy, caching, DDoS protection).
-            ◉ Delivered a robust upgrade to Squibler’s core applications, resulting in improved user experience and a measurable increase in customer acquisition.
+            - Supervised and mentored a team of 10+ software engineers, fostering collaboration and innovation. Played a pivotal role in scaling the engineering team from an MVP phase to a 30-member team, ensuring seamless onboarding through comprehensive documentation and training.
+            - Led a major Angular version upgrade (v10 → v15), improving performance and reducing technical debt by 20%.
+            - Architected and built the backend infrastructure for a new web application, enhancing scalability and maintainability.
+            - Optimized Google Cloud infrastructure, reducing monthly operational costs by 10%.
+            - Implemented GitHub Actions for CI/CD, cutting deployment time from hours to under 60 minutes.
+            - Enhanced security and performance by integrating Cloudflare (reverse proxy, caching, DDoS protection).
+            - Delivered a robust upgrade to Squibler’s core applications, resulting in improved user experience and a measurable increase in customer acquisition.
       - layout: left
-        title: Squibler AI
         link: https://www.squibler.io/
         sub_title: Senior Software Engineer
         caption: (February 2022 - August 2022)
@@ -138,13 +137,7 @@ content:
           As a Technical Lead at Squibler, I spearheaded the development and scaling of the company’s AI-driven applications, leading a high-performing engineering team while driving technical excellence and operational efficiency.
         description: | # this will include new lines to allow paragraphs
           My focus on clean architecture, automation, and team empowerment allowed Squibler to scale efficiently while maintaining high engineering standards. Whether leading complex migrations or mentoring engineers, I thrived on solving challenges that drove both technical and business growth.
-            ◉ Supervised and mentored a team of 10+ software engineers, fostering collaboration and innovation. Played a pivotal role in scaling the engineering team from an MVP phase to a 30-member team, ensuring seamless onboarding through comprehensive documentation and training.
-            ◉ Led a major Angular version upgrade (v10 → v15), improving performance and reducing technical debt by 20%.
-            ◉ Architected and built the backend infrastructure for a new web application, enhancing scalability and maintainability.
-            ◉ Optimized Google Cloud infrastructure, reducing monthly operational costs by 10%.
-            ◉ Implemented GitHub Actions for CI/CD, cutting deployment time from hours to under 60 minutes.
-            ◉ Enhanced security and performance by integrating Cloudflare (reverse proxy, caching, DDoS protection).
-            ◉ Delivered a robust upgrade to Squibler’s core applications, resulting in improved user experience and a measurable increase in customer acquisition.  
+            
 
 
 
